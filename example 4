@@ -1,0 +1,22 @@
+/*
+ ============================================================================
+ Name        : assignement1.c1
+ Author      : Mariam Abdelmegid
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+#include <stdio.h>
+#include <stdlib.h>
+
+int main(void)
+{
+	float z;
+	float p;
+printf( " enter two number :");
+fflush(stdin); 
+fflush(stdout);
+scanf(" %f %f",&z,&p);
+printf(" the product  is = %f ",x*y);
+}
