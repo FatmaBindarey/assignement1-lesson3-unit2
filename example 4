@@ -18,5 +18,5 @@ printf( " enter two number :");
 fflush(stdin); 
 fflush(stdout);
 scanf(" %f %f",&z,&p);
-printf(" the product  is = %f ",x*y);
+printf(" the product  is = %f ",z*p);
 }
