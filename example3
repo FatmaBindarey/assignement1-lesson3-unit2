@@ -1,0 +1,21 @@
+/*
+ ============================================================================
+ Name        : assignement1.c1
+ Author      : Mariam Abdelmegid
+ Version     :
+ Copyright   : Your copyright notice
+ Description : Hello World in C, Ansi-style
+ ============================================================================
+ */
+
+int main(void)
+{
+	int z;
+	int p;
+printf( " enter two number :");
+fflush(stdin); 
+fflush(stdout);
+scanf(" %d %d",&z,&p);
+printf(" sum is %d ",z+p);
+
+}
